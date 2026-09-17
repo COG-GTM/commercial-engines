@@ -1,0 +1,19 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+backend/compliance.db
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+*.whl
+frontend/tsconfig.tsbuildinfo
